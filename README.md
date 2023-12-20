@@ -1,3 +1,5 @@
+........This is an demo project  created for learning purpose only it is not production ready yet......
+**REACT NATIVE ANIMATIONS - using Animated API**
 [**INTRO**]
 This is an react-native cli project ,targeted platform's Android and IOS mobile devices
 clone the repo and run the follwing commands
